@@ -4,6 +4,9 @@ Flag capture with many profiles
 ## Rules
 ### Components of the arena
 Map size: 50x50
+
+![Sans titre](https://github.com/MayeulPx/PYnals/assets/151009945/dc68fa7d-dbbe-4c6e-ad76-e1f4229ee8d6)
+
 In this preview there is many elements:
 
   -🟨: Team 1 spawn (4x8)
