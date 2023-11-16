@@ -1,10 +1,11 @@
 # The PYnals 
 ## The finals in python 
 ## Description
-This game is create with Jusdeliens' Pytactx and inspired by the videogame "The Finals"
+Flag capture with many factions inspired by "The Finals"
 ## Rules
 ### Components of the arena
-In this preview thereis many elements:
+Map size: 50x50
+In this preview there is many elements:
   -
   -
   -
@@ -20,6 +21,10 @@ There is 3 different factions.
 |Statistics|Light|Average|Heavy|
 |-----|-----|-----|-----|
 |Life points|30|60|100|
+|Couldown between 2 moves|100|250|500|
+|Couldown between 2 fires|200|400|800|
+|Hit fire|15|25|30|
+|Range|0|0|0|
 
 
 
