@@ -1,5 +1,4 @@
 # The PYnals 
-## The finals in python 
 ## Description
 Flag capture with many profiles
 ## Rules
