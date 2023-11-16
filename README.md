@@ -19,13 +19,11 @@ In this preview there is many elements:
   -🟫: wall
   
   -⬜: glass (can see through)
-  
-  -🟠: wall
-  
+    
   -🟢: bush (can fire but not see)
   
 ### Players 
-There is 3 different profiless.
+There is 3 different profiles.
 
 |Statistics|Light|Medium|Heavy|
 |-----|-----|-----|-----|
@@ -42,3 +40,12 @@ You and your team spawn in one of the two sides of the map. You choose one of 3 
 
 ### How to win
 You must stay in the flag area 10 seconds to win one round. the first who gain 5 round win
+
+## Use cases
+### Player
+  - The agent can choose his profile
+  - The agent can choose his team
+  - Move in the map with x and y
+  - Turn in four direction (N, S, W, E)
+  - Go to the flag area
+  - See
