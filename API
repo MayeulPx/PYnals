@@ -1,0 +1,36 @@
+import j2l.pytactx.agent as pytactx
+
+agent = None
+
+
+def spawn(playerId,
+          username,
+          password,
+          server="mqtt.jusdeliens.com",
+          arena="pynals"):
+  global agent
+  agent = pytactx.Agent(playerId=playerId,
+                        arena=arena,
+                        username=username,
+                        password=password,
+                        server=server)
+
+
+def move(x, y):
+  agent.move(x,y)
+
+
+def fire(enable):
+  agent.fire(enable=False)
+
+
+def orientation(dir):
+  agent.lookAt(dir)
+
+
+def reload():
+  agent.setColor(255, 0, 0)
+
+
+def update():
+  agent.update()
