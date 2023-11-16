@@ -47,4 +47,5 @@ You must stay in the flag area 10 seconds to won one round. The first who gain 5
 ## Use cases
 ### Admin
 ### Player
+[README_API](https://github.com/MayeulPx/PYnals/blob/main/README_API.md)
 
