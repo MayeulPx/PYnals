@@ -1,29 +1,32 @@
 # The PYnals 
+## Flag capture with characters
+
 ## Description
-Flag capture with many profiles
+The Pynals is a game developed in Python with the library [PytactX by Jusdeliens](https://jusdeliens.com/).
+> 2 teams are fighting agaisnt each other to stay in the flag zone without any ennemy in with them.
 ## Rules
 ### Components of the arena
-Map size: 50x50
 
-![Sans titre](https://github.com/MayeulPx/PYnals/assets/151009945/dc68fa7d-dbbe-4c6e-ad76-e1f4229ee8d6)
+![Arena schema](mapImg1.png)
+_Map size: 50x50_
 
 In this preview there is many elements:
 
-  -🟨: Team 1 spawn (4x8)
+  - 🟨: Team 1 spawn (4x8)
   
-  -🟦: Team 2 spawn (4x8)
+  - 🟦: Team 2 spawn (4x8)
   
-  -🟥: Flag area (6x6)
+  - 🟥: Flag area (6x6)
   
-  -🟡: Team 1 player
+  - 🟡: Team 1 player
   
-  -🔵: Team 2 player
+  - 🔵: Team 2 player
   
-  -🟫: wall
+  - 🟫: wall
   
-  -⬜: glass (can see through)
+  - ⬜: glass (can see through)
     
-  -🟢: bush (can fire but not see)
+  - 🟢: bush (can fire but not see)
   
 ### Players 
 There is 3 different profiles.
@@ -48,4 +51,16 @@ You must stay in the flag area 10 seconds to won one round. The first who gain 5
 ### Admin
 ### Player
 [README_API](https://github.com/MayeulPx/PYnals/blob/main/README_API.md)
+## Author
+Pytactx by Julien Arné
 
+Designed by
+
+Inspirated by Swevvenn
+
+Developped by :
+- Maxaug61
+- Malagagne
+- Swevvenn
+
+## License
