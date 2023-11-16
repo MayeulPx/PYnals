@@ -8,14 +8,23 @@ Map size: 50x50
 In this preview there is many elements:
 
   -🟨: Team 1 spawn (4x8)
+  
   -🟦: Team 2 spawn (4x8)
+  
   -🟥: Flag area (6x6)
+  
   -🟡: Team 1 player
+  
   -🔵: Team 2 player
+  
   -🟫: wall
+  
   -⬜: glass (can see through)
-  -🟠:
-  -⚫:
+  
+  -🟠: wall
+  
+  -🟢: bush (can fire but not see)
+  
 ### Players 
 There is 3 different factions.
 
@@ -33,4 +42,4 @@ There is 3 different factions.
 You and your team spawn in one of the two sides of the map. You choose one of 3 factions and try to stay in the flag area.
 
 ### How to win
-You must stay in the flag area 10 seconds to win one round 
+You must stay in the flag area 10 seconds to win one round. the first who gain 5 round win
