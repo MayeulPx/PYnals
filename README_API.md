@@ -43,3 +43,18 @@ You and your team spawn in one of the two sides of the map. You choose one of 3 
 
 ### How to win
 You must stay in the flag area 10 seconds to won one round. The first who gain 5 round win.
+
+## Use cases
+### Player
+- choose his name
+- move in x and y
+- turn in four directions (N, S, W, E)
+- reload
+
+## pre-requisties
+## Installation
+## Author
+Pytactx: Julien Arné
+Design: Thola Mathis
+
+## License
