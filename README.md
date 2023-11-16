@@ -1,7 +1,7 @@
 # The PYnals 
 ## The finals in python 
 ## Description
-Flag capture with many factions inspired by "The Finals"
+Flag capture with many profiles
 ## Rules
 ### Components of the arena
 Map size: 50x50
@@ -26,9 +26,9 @@ In this preview there is many elements:
   -🟢: bush (can fire but not see)
   
 ### Players 
-There is 3 different factions.
+There is 3 different profiless.
 
-|Statistics|Light|Average|Heavy|
+|Statistics|Light|Medium|Heavy|
 |-----|-----|-----|-----|
 |Life points|30|60|100|
 |Couldown between 2 moves|100|250|500|
