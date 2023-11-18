@@ -51,6 +51,11 @@ You must stay in the flag area 10 seconds to won one round. The first who gain 5
 ### Admin
 ### Player
 [README_API](https://github.com/MayeulPx/PYnals/blob/main/README_API.md)
+## pre-requisties
+- Python 3.12 or higher
+- An arena in Pytactx
+## Installation
+Installation of necesary packages automatically occur when an agent is created
 ## Author
 Pytactx by Julien Arné
 
