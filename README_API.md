@@ -55,7 +55,10 @@ You must stay in the flag area 10 seconds to won one round. The first who gain 5
 - reload
 
 ## pre-requisties
+- Python 3.12 or higher
+- An arena in Pytactx
 ## Installation
+Installation of necesary packages automatically occur when an agent is created
 ## Author
 Pytactx by Julien Arné
 
