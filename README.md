@@ -37,7 +37,6 @@ There is 3 different profiles.
 |Couldown between 2 moves|100|250|500|
 |Couldown between 2 fires|200|400|800|
 |Hit fire|15|25|30|
-|Range|0|0|0|
 
 
 
