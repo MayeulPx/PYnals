@@ -4,7 +4,7 @@
 ## Description
 The Pynals is a game developed in Python with the library [PytactX by Jusdeliens](https://jusdeliens.com/).
 > 2 teams are fighting agaisnt each other to stay in the flag zone without any ennemy in with them.
-## Rules
+## 🎲 Rules
 ### Components of the arena
 
 ![Arena schema](mapImg1.png)
@@ -47,16 +47,16 @@ You and your team spawn in one of the two sides of the map. You choose one of 3 
 ### How to win
 You must stay in the flag area 10 seconds to won one round. The first who gain 5 round win.
 
-## Use cases
+## 🎮 Use cases
 ### Admin
 ### Player
 [README_API](https://github.com/MayeulPx/PYnals/blob/main/README_API.md)
-## pre-requisties
+## ✅ pre-requisties
 - Python 3.12 or higher
 - An arena in Pytactx
-## Installation
+## ⚙️ Installation
 Installation of necesary packages automatically occur when an agent is created
-## Author
+## 🧑‍💻 Author
 Pytactx by Julien Arné
 
 Designed by
@@ -68,4 +68,4 @@ Developped by :
 - Malagagne
 - Swevvenn
 
-## License
+## ⚖️ License
