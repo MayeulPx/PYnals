@@ -40,6 +40,7 @@ There is 3 different profiles.
 
 
 
+
 ### How to play
 You and your team spawn in one of the two sides of the map. You choose one of 3 profiles and try to stay in the flag area.
 
