@@ -8,13 +8,13 @@ The Pynals is a game developed in Python with the library [PytactX by Jusdeliens
 ### Components of the arena
 
 ![Arena schema](mapImg1.png)
-_Map size: 50x50_
+_Map size: 30x30_
 
 In this preview there is many elements:
 
-  - 🟨: Team 1 spawn (4x8)
+  - 🟨: Team 1 spawn (5)
   
-  - 🟦: Team 2 spawn (4x8)
+  - 🟦: Team 2 spawn (5)
   
   - 🟥: Flag area (6x6)
   
