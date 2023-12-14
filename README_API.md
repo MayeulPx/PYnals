@@ -62,7 +62,7 @@ Installation of necesary packages automatically occur when an agent is created
 ## 🧑‍💻 Author
 Pytactx by Julien Arné
 
-Designed by
+Designed by Mathiys Tola
 
 Inspirated by Swevvenn
 
