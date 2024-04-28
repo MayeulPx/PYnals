@@ -7,27 +7,14 @@ The Pynals is a game developed in Python with the library [PytactX by Jusdeliens
 ## 🎲 Rules
 ### Components of the arena
 
-![Arena schema](map.png)
+![Arena schema](map_avec_zone.jpg)
 _Map size: 30x30_
+There is many elements in the map:
+- 🔴: target area
+- 🔵: spawn area
+- 🟡: spawn area
+- 🟩: jungle
 
-In this preview there is many elements:
-
-  - 🟨: Team 1 spawn (5)
-  
-  - 🟦: Team 2 spawn (5)
-  
-  - 🟥: Flag area (6x6)
-  
-  - 🟡: Team 1 player
-  
-  - 🔵: Team 2 player
-  
-  - 🟫: wall
-  
-  - ⬜: glass (can see through)
-    
-  - 🟢: bush (can fire but not see)
-  
 ### Players 
 There is 3 different profiles.
 
@@ -37,15 +24,24 @@ There is 3 different profiles.
 |Couldown between 2 moves|100|250|500|
 |Couldown between 2 fires|200|400|800|
 |Hit fire|15|25|30|
-|Range|0|0|0|
-
-
-
-### How to play
-You and your team spawn in one of the two sides of the map. You choose one of 3 profiles and try to stay in the flag area.
 
 ### How to win
-You must stay in the flag area 10 seconds to won one round. The first who gain 5 round win.
+To win, you and your team must have 200 points.
+
+### How to play
+You and your team spawn in one of the two areas. Yoou can choose the profiles as you want (3 heavies, 2 lights and 1 medium, one of each...).
+You have two ways to have points:
+- Kill an enemy robot and you receive 5 points
+- Stay 20 seconds in the target area and you have 100 points
+- If you are killed, you respawn in you area after 5 seconds.
+- The jungle is a specific area because you are slower than on the paths.
+
+### Rules
+- Only one agent per computer
+- No network attack (DDOS)
+- You can't use AI to write your code
+- You can only use the pytactx's API but without certains functions like shockwave
+
 
 ## 🎮 Use cases
 ### Player
