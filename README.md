@@ -33,13 +33,14 @@ You and your team spawn in one of the two areas. Yoou can choose the profiles as
 You have two ways to have points:
 - Kill an enemy robot and you receive 5 points
 - Stay 20 seconds in the target area and you have 100 points
-If you are killed, you respawn in you area after 5 seconds.
-The jungle is a specific area because you are slower than on the paths.
+- If you are killed, you respawn in you area after 5 seconds.
+- The jungle is a specific area because you are slower than on the paths.
 
 ### Rules
-Seule l'API de Pytactx est autorisée
-Toute attaque réseau interdite
-Un seul agent par appareil
+- Only one agent per computer
+- No network attack (DDOS)
+- You can't use AI to write your code
+- You can only use the pytactx's API but without certains functions like shockwave
 
 
 ## 🎮 Use cases
