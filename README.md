@@ -7,9 +7,13 @@ The Pynals is a game developed in Python with the library [PytactX by Jusdeliens
 ## 🎲 Rules
 ### Components of the arena
 
-![Arena schema](map.jpg)
+![Arena schema](map_avec_zone.jpg)
 _Map size: 30x30_
-
+There is many elements in the map:
+- 🔴: target area
+- 🔵: spawn area
+- 🟡: spawn area
+- 🟩: jungle
 
 ### Players 
 There is 3 different profiles.
@@ -21,14 +25,22 @@ There is 3 different profiles.
 |Couldown between 2 fires|200|400|800|
 |Hit fire|15|25|30|
 
-
-
+### How to win
+To win, you and your team must have 200 points.
 
 ### How to play
-You and your team spawn in one of the two sides of the map. You choose one of 3 profiles and try to stay in the flag area.
+You and your team spawn in one of the two areas. Yoou can choose the profiles as you want (3 heavies, 2 lights and 1 medium, one of each...).
+You have two ways to have points:
+- Kill an enemy robot and you receive 5 points
+- Stay 20 seconds in the target area and you have 100 points
+If you are killed, you respawn in you area after 5 seconds.
+The jungle is a specific area because you are slower than on the paths.
 
-### How to win
-You must stay in the flag area 10 seconds to won one round. The first who gain 5 round win.
+### Rules
+Seule l'API de Pytactx est autorisée
+Toute attaque réseau interdite
+Un seul agent par appareil
+
 
 ## 🎮 Use cases
 ### Admin
